@@ -1,0 +1,19 @@
+
+body {
+font-family: Arial;
+background: #f4f4f4;
+padding: 20px;
+}
+.grid {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+gap: 20px;
+}
+.grid div {
+background: white;
+padding: 10px;
+border: 1px solid #ccc;
+}
+img {
+max-width: 100%;
+}
