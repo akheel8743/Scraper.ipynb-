@@ -36,7 +36,7 @@ HTML + CSS (Static site generation)
 Loom (Video walkthrough)
 
 🎥 Loom Video Link
-👉 Watch the walkthrough here https://your-video-link-here
+👉 Watch the walkthrough here 
 
 💡 How to Run
 Open ecommerce_scraper.ipynb in Google Colab.
